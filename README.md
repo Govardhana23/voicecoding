@@ -1,4 +1,4 @@
-#VoiceCoding
+#Voice Coding
 
 A simple, student-friendly Python project that lets you convert your voice to text using your computer’s microphone—all in one file!
 Perfect for beginners learning speech-to-text or Python audio programming.
